@@ -1,12 +1,12 @@
 # Site settings
 title: Thomas Schühly
 description: My Portfolio
- baseurl: "/" # the subpath of your site, e.g. /blog
- url: "thaiminater.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/" 
+url: "thaiminater.github.io" # 
 
 # User settings
 username: Thomas Schühly
-user_description: Hello on my github homepage. Here I show you my projects and my expertise.
+user_description: Hello on my GitHub homepage. Here I show you my projects and my expertise.
 user_title: 
 email: thomas.schuehly@outlook.com
 twitter_username: 
