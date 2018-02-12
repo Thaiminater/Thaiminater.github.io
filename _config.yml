@@ -1,18 +1,16 @@
 # Site settings
 title: Thomas Schühly
 description: My Portfolio
-baseurl: "/" 
-url: "thaiminater.github.io" # 
+#baseurl: "/"
+#url: "thaiminater.github.io"
+baseurl: "/docs"
+url: "127.0.0.1:4000" #
 
 # User settings
 username: Thomas Schühly
-user_description: Hello on my GitHub homepage. Here I show you my projects and my expertise.
-user_title: 
+user_description: Here I show you my projects and my expertise.
 email: thomas.schuehly@outlook.com
-twitter_username: 
 github_username:  https://github.com/Thaiminater
-gplus_username:  
-
 # Google-analytics
 google-analytics:
   id: ""
